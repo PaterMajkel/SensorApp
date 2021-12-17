@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/SensorApp/app/src/main/res/drawable/acceletrometre_background.xml" value="0.25925925925925924" />
+        <entry key="..\:/SensorApp/app/src/main/res/drawable/acceletrometre_foreground.xml" value="0.25925925925925924" />
+        <entry key="..\:/SensorApp/app/src/main/res/drawable/sensorImage_background.xml" value="0.25925925925925924" />
+        <entry key="..\:/SensorApp/app/src/main/res/drawable/sensorImage_foreground.xml" value="0.25925925925925924" />
+        <entry key="..\:/SensorApp/app/src/main/res/layout/activity_sensor_details.xml" value="0.14629629629629629" />
+        <entry key="..\:/SensorApp/app/src/main/res/layout/sensor_activity.xml" value="0.33" />
+        <entry key="..\:/SensorApp/app/src/main/res/layout/sensor_list_item.xml" value="0.22" />
+        <entry key="..\:/SensorApp/app/src/main/res/mipmap-anydpi-v26/acceletrometre.xml" value="0.1675925925925926" />
+        <entry key="..\:/SensorApp/app/src/main/res/mipmap-anydpi-v26/sensorImage.xml" value="0.1675925925925926" />
+        <entry key="..\:/SensorApp/app/src/main/res/mipmap-anydpi-v26/sensorImage_round.xml" value="0.1675925925925926" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/list_item_sensor"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/black">
+
+    <ImageView
+        android:id="@+id/sensorImage"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        tools:srcCompat="@drawable/acceletrometre_foreground" />
+
+    <TextView
+        android:id="@+id/sensorNameText"
+        android:layout_width="126dp"
+        android:layout_height="match_parent"
+        android:background="#000000"
+        android:textColor="#FFFFFF" />
+
+    <TextView
+        android:id="@+id/sensorTypeText"
+        android:layout_width="173dp"
+        android:layout_height="match_parent"
+        android:background="#000000"
+        android:textColor="#FFFFFF" />
+
+
+</LinearLayout>

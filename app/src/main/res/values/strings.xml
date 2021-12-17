@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">SensorApp</string>
+    <string name="sensors_count">Liczba czujnikow: %d</string>
+    <string name="missing_sensors">Brak czujnika</string>
+    <string name="Light_sensor_label">Sensor Swiatla</string>
+    <string name="Proximity_sensor_label">Sensor Zblizenia</string>
+    <string name="menu_button">Pokaz ilosc sensorów</string>
+    <string name="hide_subtitle">Ukryj ilosc sensorow</string>
+    <string name="show_subtitle">Pokaz ilosc sensorow</string>
+
+</resources>
